@@ -6,7 +6,6 @@
 
 Навыки: Python / SQL / pandas / sklearn / keras
 
-- 🔭 I’m currently working on this page. 
 
 
 
