@@ -4,7 +4,7 @@
 
 Это, в целом, *пока* все
 
-Навыки: Python / SQL / pandas / sklearn / keras
+Навыки: Python / PostgreSQL / pandas / sklearn / keras
 
 
 
